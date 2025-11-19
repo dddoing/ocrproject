@@ -6,6 +6,9 @@
 # MCP Configuration (contains secrets)
 .mcp.json
 
+# Korean documentation (local only)
+docs/korean/
+
 # Frontend
 frontend/node_modules/
 frontend/.next/
